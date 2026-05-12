@@ -1,0 +1,18 @@
+# Data
+data/
+
+# Models
+*.pt
+*.pth
+*.ckpt
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
